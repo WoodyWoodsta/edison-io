@@ -44,6 +44,6 @@
     "node": "latest"
   },
   "dependencies": {
-    "woodywoodsta/galileo-io": "^0.10"
+    "galileo-io": "woodywoodsta/galileo-io"
   }
 }
